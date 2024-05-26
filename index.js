@@ -31,7 +31,7 @@ if (!inFrame && !navigator.userAgent.includes("Firefox")) {
 }
 
 const form = document.querySelector('form');
-const input = document.querySelector('.site-input');
+const input = document.querySelector('input');
 const searchBTN = document.querySelector('.search-btn');
 
 
